@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "TweetBlock",
+  name: "SendX",
   description:
     "A blockchain twitter client that helps you send money by making tweets",
   navItems: [
